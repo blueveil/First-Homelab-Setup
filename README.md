@@ -123,5 +123,5 @@ Power management, cable routing, and device placement are included.
 
 ---
 ## Notes
-- This setup avoids racks entirely — just simple shelves with vertical stacking  
+- This setup avoids racks entirely by using a desk organizer shelf 
 - Keeps devices accessible, airflow optimized, and tidy  
