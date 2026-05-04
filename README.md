@@ -111,13 +111,14 @@ Power management, cable routing, and device placement are included.
 
 | Item                      | Quantity | Notes                                |
 | ------------------------- | -------- | ------------------------------------ |
-| 3-Tier Shelf              | 1        | Open front/back, plastic/metal       |
+| 3-Tier Book Shelf         | 1        | Open front/back, plastic/metal       |
 | Velcro strips             | TBD      | Heavy duty for devices + patch panel |
-| TESSAN 5 ft Power Strip   | 1        | Flat plug, mountable                 |
+| Anker power strip         | 1        | Flat plug, mountable                 |
 | Mini PCs                  | 2        | Dell + HP                            |
 | Raspberry Pi 3B+          | 1        | MicroSD/USB power                    |
 | Switch (SG108E / GS108E)  | 1        | 8 ports, managed/unmanaged           |
-| Patch Panel (Printed 10”) | 1        | Mount vertically above switch/Pi     |
+| Patch panel (printed 10”) | 1        | Mount vertically above switch/Pi     |
+| Patch panel bracket       | 1        | Designed it myself in Onshape        |
 | SSDs                      | TBD      | see list above                       |
 | Cable ties / Velcro ties  | TBD      | For neat cable routing               |
 
