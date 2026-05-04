@@ -40,7 +40,7 @@ Power management, cable routing, and device placement are included.
 ## SSDs Available
 - 512GB Patriot P210 (2.5" SATA, new)  
 - 500GB Samsung 870 EVO (2.5" SATA, new)   
-- Planned future uture NVMe SSDs  
+- Planned future NVMe SSDs  
 
 ---
 
